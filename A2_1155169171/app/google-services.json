@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1003061167996",
+    "project_id": "t-tide-325516",
+    "storage_bucket": "t-tide-325516.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003061167996:android:67798ad3409445c22846f9",
+        "android_client_info": {
+          "package_name": "hk.edu.cuhk.ie.iems5722.a2_1155169171"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003061167996-mi7th5vurk8n3je31qsrcnouespm55qf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeG2OVMDDKMFM1ydGTrzoQuQOUkYh5HBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003061167996-mi7th5vurk8n3je31qsrcnouespm55qf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
